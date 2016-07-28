@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Data, Culture, Materiality]]></title>
-        <description><![CDATA[Data, Culture, Materiality]]></description>
+        <title><![CDATA[Research Blog]]></title>
+        <description><![CDATA[Research Blog]]></description>
         <link>https://thegrid.ai/dr-james-allen-robertson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 20:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 20:15:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dr-james-allen-robertson/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>If I were to have an idea, I'd write it in a post here. It would be a good idea probably, except on most days when it wouldn't. It would probably involve something digital, and an esoteric round the houses argument to link it to a mechanical pipe organ from the 1700s. Because that's how I roll.</p>]]></description>
-            <link>https://thegrid.ai/dr-james-allen-robertson/if-i-were-to-have-an-idea-id-write-it-in-a-post-here-it-w/index.html</link>
-            <guid isPermaLink="false">ab8a814d-2458-4e0e-b391-214e93273862</guid>
-            <pubDate>Thu, 28 Jul 2016 20:10:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Trusted Computing FAQ TC / TCG / LaGrande / NGSCB / Longhorn / Palladium]]></title>
             <description><![CDATA[<article><h1>Trusted Computing FAQ TC / TCG / LaGrande / NGSCB / Longhorn / Palladium</h1><p>Trusted Computing FAQ</p></article>]]></description>
