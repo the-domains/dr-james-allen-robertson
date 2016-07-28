@@ -1,20 +1,34 @@
+name: Dr. James Allen-Robertson
+favicon: null
+layout_spectrum: 0.8153632492758334
 typography_spectrum: 0.9772727596573532
+navigation:
+  - name: About me
+    id: 4816f041-c348-45f2-8601-5bc79cf8a643
+    type: content
+title: Research Blog
+description: 'Data, Culture, Materiality'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.30152488593012094
-  lightness: 0.5603748464491218
-  saturation: 0.4417202062904835
-  rhythmicContrast: 0.21117905643768609
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.8153632492758334
-name: Dr. James Allen-Robertson
-navigation:
-  - name: About me
-    id: 4816f041-c348-45f2-8601-5bc79cf8a643
-    type: content
-title: James Allen-Robertson - Research Blog
-description: 'Data, Culture, Materiality'
+  brandStrength: 0.30152488593012094
+  lightness: 0.5603748464491218
+  saturation: 0.4417202062904835
+  rhythmicContrast: 0.21117905643768609
+purpose: []
