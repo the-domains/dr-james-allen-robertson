@@ -1,16 +1,16 @@
-typography_spectrum: 0.4162851660512388
+typography_spectrum: 0.9772727596573532
 color:
-  brandStrength: 0.6102988154161721
-  lightness: 0.6527362056076527
-  saturation: 0.8036179095506668
-  rhythmicContrast: 0.16196067444980145
+  brandStrength: 0.30152488593012094
+  lightness: 0.5603748464491218
+  saturation: 0.4417202062904835
+  rhythmicContrast: 0.21117905643768609
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.6237590778619051
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+layout_spectrum: 0.8153632492758334
 name: Dr. James Allen-Robertson
 navigation:
   - name: About
