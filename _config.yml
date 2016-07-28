@@ -1,4 +1,3 @@
-layout_spectrum: 0.6237590778619051
 typography_spectrum: 0.4162851660512388
 color:
   brandStrength: 0.6102988154161721
@@ -11,8 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.6237590778619051
 name: Dr. James Allen-Robertson
 navigation:
   - name: About
     id: 4816f041-c348-45f2-8601-5bc79cf8a643
     type: content
+title: Cylinders and Platters
