@@ -12,9 +12,6 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.8153632492758334
 name: Dr. James Allen-Robertson
-navigation:
-  - name: About
-    id: 4816f041-c348-45f2-8601-5bc79cf8a643
-    type: content
+navigation: []
 title: James Allen-Robertson - Research Blog
 description: 'Data, Culture, Materiality'
