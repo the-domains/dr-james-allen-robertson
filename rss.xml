@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dr. James Allen-Robertson]]></title>
-        <description><![CDATA[Dr. James Allen-Robertson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Data, Culture, Materiality]]></title>
+        <description><![CDATA[Data, Culture, Materiality]]></description>
+        <link>https://thegrid.ai/dr-james-allen-robertson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:29:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 20:10:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dr-james-allen-robertson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ballardian]]></title>
+            <description><![CDATA[<article><h1>Ballardian</h1><p>by Dan Lockton Ernõ Goldfinger's Trellick Tower, London W10. "I built skyscrapers for people to live in there and now they messed them up - disgusting." Photo by See Wah, used under Creative Commons licence). Dan Lockton is a design engineer and doctoral researcher at Brunel University's School of Engineering & Design, on a brutalist West London campus somewhere between Shepperton and the Westway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82348975be6d9bb4a3416312b5fe8653/noop.jpg?input=http%3A%2F%2Fwww.ballardian.com%2Fimages%2Fwah_goldfinger.jpg"></article>]]></description>
+            <link>http://www.ballardian.com/jg-ballard-architectures-of-control</link>
+            <guid isPermaLink="false">b524ae02-e1e7-4b9a-87fa-aadbdf642c42</guid>
+            <pubDate>Thu, 28 Jul 2016 20:10:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside Amazon: Wrestling Big Ideas in a Bruising Workplace]]></title>
             <description><![CDATA[<article><h1>Inside Amazon: Wrestling Big Ideas in a Bruising Workplace</h1><p>SEATTLE - On Monday mornings, fresh recruits line up for an orientation intended to catapult them into Amazon's singular way of working. They are told to forget the "poor habits" they learned at previous jobs, one employee recalled. When they "hit the wall" from the unrelenting pace, there is only one solution: "Climb the wall," others reported.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d20fd1e38071eea8d590cf8be9b1d790/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2015%2F08%2F13%2Fbusiness%2F13amazon-selects-slide-JO5Z%2F13amazon-selects-slide-JO5Z-master1050-v3.jpg"></article>]]></description>
