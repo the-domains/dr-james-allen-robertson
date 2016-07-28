@@ -6,9 +6,13 @@ color:
   saturation: 0.8036179095506668
   rhythmicContrast: 0.16196067444980145
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Dr. James Allen-Robertson
+navigation:
+  - name: About
+    id: 4816f041-c348-45f2-8601-5bc79cf8a643
+    type: content
